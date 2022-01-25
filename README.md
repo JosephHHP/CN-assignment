@@ -1,5 +1,5 @@
 # CN-assignment
-Client - Server programme
+Client - Server program
 
 This project contains two programs that are able to communicate with each other. The two programs are client and Server. The Server conncet to a port and wait for a client to conncet to the same port. Once the connection is complete, the Client have the power to make the serever do certain tasks. In this project, those tasks are-
 
