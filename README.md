@@ -10,7 +10,7 @@ This project contains two programs that are able to communicate with each other.
 
 Once the word "over" is entered in the client terminal, the connection will be terminated.
 
-OUR TEAM
-1.Basil Sajeev Areekal
-2.Bibin Benny
+OUR TEAM  
+1.Basil Sajeev Areekal  
+2.Bibin Benny  
 3.Gary Varkey
